@@ -22,9 +22,6 @@
 ### Auth
 - [jsonwebtoken]()
 
-### Cloud
-
-- [LeanCloud]()
 
 ### Development tools
 
@@ -36,7 +33,6 @@
 - [ESLint](https://github.com/eslint/eslint)
 - [Webpack-dev-middleware]()
 - [Webpack-hot-middleware]()
-
 
 
 ## Feature
